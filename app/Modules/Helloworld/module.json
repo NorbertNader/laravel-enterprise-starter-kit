@@ -1,0 +1,9 @@
+{
+	"name": "Helloworld",
+	"slug": "helloworld",
+	"namespace": "Helloworld",
+	"version": "1.0",
+	"author": "NorbertNader",
+	"license": "MIT",
+	"description": "This is the description for the Helloworld module."
+}

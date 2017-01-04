@@ -7,7 +7,9 @@ storage/
 
 # Package development #
 #######################
-/app/Modules/
+!/app
+/app/Modules/*
+!/app/Modules/Helloworld
 
 # Configuration testing #
 #########################
