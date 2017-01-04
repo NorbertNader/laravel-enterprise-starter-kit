@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "8e825669a74aea90b87b23e911067c89",
-    "content-hash": "321175d8b9f6c906187ef23ba5132ee6",
+    "hash": "9413cf4392223abd5bf569dedfe03572",
+    "content-hash": "178707ff8e1b44f12095e2bec931a13d",
     "packages": [
         {
             "name": "adldap2/adldap2",
@@ -936,7 +936,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/dbal/zipball/51f6934c19635fa1c69680482522c734a0121463",
+                "url": "https://api.github.com/repos/doctrine/dbal/zipball/432b80084acb401f9f2daba461679ace39cf67df",
                 "reference": "432b80084acb401f9f2daba461679ace39cf67df",
                 "shasum": ""
             },
